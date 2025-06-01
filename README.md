@@ -30,6 +30,11 @@ python -m venv venv
 source venv/bin/activate  # On Windows: source .venv/Scripts/activate
 
 pip install -r requirements.txt
+
+Download the CSV from Kaggle and rename to vessels in the data folder
+
+run ./run.sh
+
 ```
 
 ## Results Output Sample
